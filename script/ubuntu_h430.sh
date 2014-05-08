@@ -14,6 +14,6 @@ do
 	cp ./$i $HOME/$i
 done
 
-sudo rsync -v linux/ /
+sudo rsync -rv linux/ /
 sudo chmod 640 /etc/sudoers.d/*
 
