@@ -21,3 +21,8 @@ sudo apt-get install compizconfig-settings-manager
 
 sudo apt-get install spotify-client
 
+sudo apt-get install python-pip
+sudo apt-get install python-dev
+#python-virtualenv
+#virtualenvwrapper
+
