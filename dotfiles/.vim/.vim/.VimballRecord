@@ -1,0 +1,1 @@
+netrw.vba: call delete('/usr/home/mos/.vim/plugin/netrwPlugin.vim')|call delete('/usr/home/mos/.vim/autoload/netrw.vim')|call delete('/usr/home/mos/.vim/autoload/netrwFileHandlers.vim')|call delete('/usr/home/mos/.vim/autoload/netrwSettings.vim')|call delete('/usr/home/mos/.vim/doc/pi_netrw.txt')|call delete('/usr/home/mos/.vim/syntax/netrw.vim')

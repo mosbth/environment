@@ -1,0 +1,14 @@
+alias screens screen -U -S basic
+alias screenr screen -U -d -r basic
+alias screensd screen -U -S development
+alias screend screen -U -d -r development
+alias ll ls -lF
+alias la ls -aF
+alias lla ls -laF
+alias ls ls -F
+
+alias tmux_basic_start tmux new-session -s basic
+alias tmux_basic tmux attach -t basic
+alias tb tmux_basic
+alias tbs tmux_basic_start
+
